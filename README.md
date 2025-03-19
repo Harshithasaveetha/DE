@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name:Harshitha D
+### Reg no:212224040110
+###Exp-1: study-of-basic-gates
 
 **AIM:** 
 
@@ -64,16 +66,22 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot (136)](https://github.com/user-attachments/assets/cedbd804-ccac-45af-80ad-11bf4dff9397)
 
  Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**Truthtable**
+![table](https://github.com/user-attachments/assets/6bfd0535-5d3d-424f-800a-4d279d5baef1)
 
-**RTL realization Output:** 
 
-**RTL**
+**RTL** 
+![Screenshot (137)](https://github.com/user-attachments/assets/9f6b01f7-f09e-4d27-843c-f4351ba69321)
+
+
+**Waveform**
+![wave](https://github.com/user-attachments/assets/ee1995ca-5a5b-4a49-a23d-779a681d60e4)
+
 
 **Result:**
-
+basic logic gates are studied and truth table are verified
 
