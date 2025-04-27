@@ -70,7 +70,8 @@ Y= A⊕B
  Developed by: RegisterNumber: 
  
 **Truthtable**
-![table](https://github.com/user-attachments/assets/6bfd0535-5d3d-424f-800a-4d279d5baef1)
+
+![tt](https://github.com/user-attachments/assets/86198876-04a8-4c70-a8df-4c35d9db837b)
 
 
 **RTL** 
