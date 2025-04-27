@@ -65,8 +65,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-
-![Screenshot (136)](https://github.com/user-attachments/assets/cedbd804-ccac-45af-80ad-11bf4dff9397)
+![Screenshot (136)](https://github.com/user-attachments/assets/484eb11a-3bb7-47d1-afc5-6e6e28acad5b)
 
  Developed by: RegisterNumber: 
  
@@ -79,7 +78,7 @@ Y= A⊕B
 
 
 **Waveform**
-![wave](https://github.com/user-attachments/assets/ee1995ca-5a5b-4a49-a23d-779a681d60e4)
+![ex1w](https://github.com/user-attachments/assets/5882bfdc-4612-49af-b3e3-9ff5803f945b)
 
 
 **Result:**
